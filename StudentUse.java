@@ -12,6 +12,6 @@ public class StudentUse{
 		s2.name="Ankush";
 		s2.rollNumber=50;
 		System.out.println(s2.name+" "+s2.rollNumber);
-		System.out.println(rollNumber);
+		// System.out.println(rollNumber);
 	}
 }
